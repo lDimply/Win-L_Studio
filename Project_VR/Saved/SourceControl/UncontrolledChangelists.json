@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Alumno/Win-L_Studio/Project_VR/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Alumno/Win-L_Studio/Project_VR/Content/VRTemplate/Audio/Fire01.uasset",
+				"C:/Users/Alumno/Win-L_Studio/Project_VR/Content/Maps/1_NivelPrueba.umap",
+				"C:/Users/Alumno/Win-L_Studio/Project_VR/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/Alumno/Win-L_Studio/Project_VR/Content/Actors/BP_VRPawn.uasset",
+				"C:/Users/Alumno/Win-L_Studio/Project_VR/Content/VRTemplate/Blueprints/Grabbable_SmallCube.uasset",
+				"C:/Users/Alumno/Win-L_Studio/Project_VR/Content/1_Blueprints/Actors/BP_VRPawn.uasset",
+				"C:/Users/Alumno/Win-L_Studio/Project_VR/Content/1_Blueprints/Inputs/IMC_VRPawn.uasset",
+				"C:/Users/Alumno/Win-L_Studio/Project_VR/Content/1_Blueprints/Inputs/IA_Move.uasset",
+				"C:/Users/Alumno/Win-L_Studio/Project_VR/Content/1_Blueprints/Inputs/IA_Grab.uasset",
+				"C:/Users/Alumno/Win-L_Studio/Project_VR/Content/1_Blueprints/Inputs/IA_ButtonTest.uasset",
+				"C:/Users/Alumno/Win-L_Studio/Project_VR/Content/VRTemplate/Input/IMC_Default.uasset",
+				"C:/Users/Alumno/Win-L_Studio/Project_VR/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/Alumno/Win-L_Studio/Project_VR/Content/2_UI/WBP_Interfaz.uasset",
+				"C:/Users/Alumno/Win-L_Studio/Project_VR/Content/1_Blueprints/Actors/BP_BlueprintUIWorld.uasset",
+				"C:/Users/Alumno/Win-L_Studio/Project_VR/Content/1_Blueprints/Actors/Objetos/BP_Caja.uasset",
+				"C:/Users/Alumno/Win-L_Studio/Project_VR/Content/1_Blueprints/Actors/Objetos/BP_Menu.uasset",
+				"C:/Users/Alumno/Win-L_Studio/Project_VR/Content/2_UI/WBP_Interfaz_Boton.uasset"
+			]
+		}
+	]
+}
