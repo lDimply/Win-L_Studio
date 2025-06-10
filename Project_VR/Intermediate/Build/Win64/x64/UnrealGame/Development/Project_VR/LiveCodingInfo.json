@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Project_VR.cpp.obj": [
+			"Project_VR.cpp.obj"
+		]
+	}
+}
