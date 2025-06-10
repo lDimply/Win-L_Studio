@@ -5,8 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/gabri/Documents/Fork/Win-L_Studio/Project_VR/Content/2_UI/2_MenuPrincipal/WBP_MenuOpciones.uasset",
-				"C:/Users/gabri/Documents/Fork/Win-L_Studio/Project_VR/Content/2_UI/2_MenuPrincipal/WBP_MenuPrincipal.uasset",
 				"D:/Fork/Win-L_Studio/Project_VR/Content/Maps/MapaOptimizacion/L_MapaOptimizacion.umap",
 				"D:/Fork/Win-L_Studio/Project_VR/Content/Maps/MapaOptimizacion/_GENERATED/Douglas/CubeGridToolOutput_7D2BD8E1.uasset",
 				"D:/Fork/Win-L_Studio/Project_VR/Content/1_Blueprints/BPC/BPC_BuildSystem.uasset",
@@ -475,6 +473,9 @@
 				"D:/Fork/Win-L_Studio/Project_VR/Content/__ExternalObjects__/Maps/MAIN_NIVELES/L_NIVELMAIN/9/NS/I641XT20C953TOBBE6G426.uasset",
 				"D:/Fork/Win-L_Studio/Project_VR/Content/2_UI/UI_Bote/WBP_Puente_Fracciones.uasset",
 				"D:/Fork/Win-L_Studio/Project_VR/Content/__ExternalActors__/Gabriel/Levels/Nivel_3/D/75/82T9CZQ95VURCEN154BROB.uasset",
+				"D:/Fork/Win-L_Studio/Project_VR/Content/2_UI/2_MenuPrincipal/WBP_MenuOpciones.uasset",
+				"C:/Users/gabri/Documents/Fork/Win-L_Studio/Project_VR/Content/2_UI/2_MenuPrincipal/WBP_MenuOpciones.uasset",
+				"C:/Users/gabri/Documents/Fork/Win-L_Studio/Project_VR/Content/2_UI/2_MenuPrincipal/WBP_MenuPrincipal.uasset",
 				"D:/Fork/Win-L_Studio/Project_VR/Content/__ExternalObjects__/Maps/MAIN_NIVELES/L_NIVELMAIN/F/03/REQK7KJ1SBQD0J7605ZHAU.uasset",
 				"D:/Fork/Win-L_Studio/Project_VR/Content/__ExternalActors__/Maps/MAIN_NIVELES/L_NIVELMAIN/1/1I/9XUCYLFMO1U8PVEZUWZFRR.uasset",
 				"D:/Fork/Win-L_Studio/Project_VR/Content/__ExternalActors__/Maps/MAIN_NIVELES/L_NIVELMAIN/6/HN/ZXMPNXG9HAT5O9YNOJ71E0.uasset",
