@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\Fork\\Win-L_Studio\\Project_VR\\Intermediate\\Source\\Project_VR.Build.cs",
+		"D:\\Fork\\Win-L_Studio\\Project_VR\\Intermediate\\Source\\Project_VR.Target.cs",
+		"D:\\Fork\\Win-L_Studio\\Project_VR\\Intermediate\\Source\\Project_VRClient.Target.cs",
+		"D:\\Fork\\Win-L_Studio\\Project_VR\\Intermediate\\Source\\Project_VREditor.Target.cs",
+		"D:\\Fork\\Win-L_Studio\\Project_VR\\Intermediate\\Source\\Project_VRServer.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
